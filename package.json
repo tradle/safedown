@@ -1,6 +1,6 @@
 {
   "name": "safedown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "wrapper for leveldown to ensure close() doesn't cause segfaults due to pending operations",
   "repository": {
